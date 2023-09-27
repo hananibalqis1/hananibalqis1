@@ -25,6 +25,27 @@ Let's chat about web tech, design ideas, or potential collaborations! Feel free 
 
 ### 📊 My GitHub Stats
 
-![Nuiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hananibalqis1&show_icons=true&theme=dracula)
+<style>
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<div class="row">
+  <div class="column">
+    ![Nuiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hananibalqis1&show_icons=true&theme=dracula)
+  </div>
+  <div class="column">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hananibalqis1&layout=donut)](https://github.com/hananibalqis1/github-readme-stats)
+  </div>
+</div>
 
 #
