@@ -26,6 +26,6 @@ Let's chat about web tech, design ideas, or potential collaborations! Feel free 
 ### 📊 My GitHub Stats
 
 ![Nuiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hananibalqis1&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hananibalqis1&layout=donut)](https://github.com/hananibalqis1/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hananibalqis1&layout=compact)
 
 #
