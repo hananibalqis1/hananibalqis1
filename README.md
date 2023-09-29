@@ -23,6 +23,12 @@ Let's chat about web tech, design ideas, or potential collaborations! Feel free 
 
 #
 
+### 📺 Video Demonstration of My Projects
+
+[<img src="https://i.ytimg.com/vi/Z3-7JtCcLu4/maxresdefault.jpg" width="30%">](https://youtu.be/Z3-7JtCcLu4 "Sky Academy: Online Learning Platform for Kids and Community")
+[<img src="https://i.ytimg.com/vi/idRe_JAlBv0/maxresdefault.jpg" width="30%">](https://www.youtube.com/watch?v=idRe_JAlBv0 "BookBuddy: Mozac Library Management System")
+[<img src="https://i.ytimg.com/vi/AQky-IMlOf4/maxresdefault.jpg" width="30%">](https://www.youtube.com/watch?v=AQky-IMlOf4&t=512s "A4CS1104C || The Click Four || e-TAPA Online System || June 2019")
+
 ### 📊 My GitHub Stats
 
 <div align="center">
